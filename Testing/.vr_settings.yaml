@@ -1,0 +1,23 @@
+--- !ruby/object:VR_ENV
+browser: firefox
+width: 1108
+height: 1549
+panel_pos: 1266
+backup_path: /Users/johnathanmcmanus
+tab_spaces: 2
+run_command_line: ruby main.rb
+open_files:
+- /Users/johnathanmcmanus/Git/Visual Ruby/Testing/bin/MyClass.rb
+- /Users/johnathanmcmanus/Git/Visual Ruby/Testing/main.rb
+- /Users/johnathanmcmanus/Git/Visual Ruby/Testing/bin/Task.rb
+open_folders:
+- /Users/johnathanmcmanus/Git/Visual Ruby/Testing
+- /Users/johnathanmcmanus/Git/Visual Ruby/Testing/bin
+- /Users/johnathanmcmanus/Git/Visual Ruby/Testing/bin/glade
+current_file: /Users/johnathanmcmanus/Git/Visual Ruby/Testing/bin/Task.rb
+glade_path: glade-3
+font_name: Monospace 10
+rdoc_command_line: rdoc -x README
+builder: !ruby/object:Gtk::Builder {}
+glade_box: !ruby/object:VR::SimpleComboBoxEntry {}
+browser_box: !ruby/object:VR::SimpleComboBoxEntry {}
